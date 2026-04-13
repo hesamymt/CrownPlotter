@@ -1,2 +1,4 @@
 *.txt
-!requirements.txt
+!/requirements.txt
+build/
+Build/
